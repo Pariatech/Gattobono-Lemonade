@@ -1,0 +1,77 @@
+{ "frames": [
+   {
+    "filename": "neighborhood (Background).aseprite",
+    "frame": { "x": 0, "y": 0, "w": 319, "h": 180 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 0, "w": 319, "h": 180 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "neighborhood (House 1).aseprite",
+    "frame": { "x": 444, "y": 0, "w": 76, "h": 63 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 244, "y": 117, "w": 76, "h": 63 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "neighborhood (House 2).aseprite",
+    "frame": { "x": 319, "y": 0, "w": 125, "h": 179 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 179 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "neighborhood (Bidou).aseprite",
+    "frame": { "x": 588, "y": 0, "w": 15, "h": 20 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 142, "y": 81, "w": 15, "h": 20 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "neighborhood (Stand).aseprite",
+    "frame": { "x": 571, "y": 0, "w": 17, "h": 25 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 150, "y": 80, "w": 17, "h": 25 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   },
+   {
+    "filename": "neighborhood (Fence).aseprite",
+    "frame": { "x": 520, "y": 0, "w": 51, "h": 21 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 269, "y": 0, "w": 51, "h": 21 },
+    "sourceSize": { "w": 320, "h": 180 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "neighborhood.png",
+  "format": "I8",
+  "size": { "w": 603, "h": 180 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" },
+   { "name": "House 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "House 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Bidou", "opacity": 255, "blendMode": "normal" },
+   { "name": "Stand", "opacity": 255, "blendMode": "normal" },
+   { "name": "Fence", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
